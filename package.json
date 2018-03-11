@@ -1,0 +1,10 @@
+{
+  "name": "elm-rpg",
+  "version": "1.0.0",
+  "main": "api.js",
+  "author": "Brad Richardson",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
